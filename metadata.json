@@ -1,0 +1,7 @@
+{
+  "name": "MediMind - Medical Diagnostic AI",
+  "description": "Sistema avanzato di intelligenza diagnostica medica per l'analisi di referti e immagini, con ragionamento clinico basato su evidenze e integrazione della letteratura scientifica.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
